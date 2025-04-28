@@ -1,4 +1,4 @@
-// src/routes/spotifyRoutes.ts
+// api/routes/spotifyRoutes.ts
 import { Router } from 'express';
 import { searchSpotify,proxySpotify } from '../controllers/spotifyController';
 

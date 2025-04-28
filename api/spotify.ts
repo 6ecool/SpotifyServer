@@ -1,4 +1,4 @@
-// src/spotify.ts
+// api/spotify.ts
 import axios from 'axios';
 import { config } from 'dotenv';
 
